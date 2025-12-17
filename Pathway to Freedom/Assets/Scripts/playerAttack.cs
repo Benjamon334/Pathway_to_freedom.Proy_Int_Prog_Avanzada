@@ -8,7 +8,7 @@ public class playerAttack : MonoBehaviour
 
     private bool attacking = false;
 
-    private float timeToAttack = 0.25f;
+    private float timeToAttack = 0.5f;
     private float timer = 0f;
 
     // Start is called before the first frame update
@@ -23,6 +23,10 @@ public class playerAttack : MonoBehaviour
         if(Input.GetKeyDown(KeyCode.Space))
         {
             Attack();
+            Vector2 mousePos = Camera.main.ScreenToWorldPoint(Input.mousePosition);
+            Vector2 attackDir = mousePos - new Vector2(transform.position.x, transform.position.y);
+            float angle = Mathf.Atan2(attackDir.y, attackDir.x) * Mathf.Rad2Deg;
+            attackArea.transform.rotation = Quaternion.Euler(new Vector3(0, 0, angle));
         }
 
         if(attacking)

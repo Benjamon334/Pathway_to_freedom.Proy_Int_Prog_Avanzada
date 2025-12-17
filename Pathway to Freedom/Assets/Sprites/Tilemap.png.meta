@@ -1,0 +1,3031 @@
+fileFormatVersion: 2
+guid: 0681a88cc8a43ae4f9870bd77da51176
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: PC _ Computer - The Binding of Isaac_ Rebirth - Rooms - Cathedral_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 767
+        width: 74
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 380254085e7afc646b28c093e572e785
+      internalID: -1750135262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - The Binding of Isaac_ Rebirth - Rooms - Cathedral_1
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 767
+        width: 74
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7585fc82aaeffa498f03163c5d8c7de
+      internalID: 1045237381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - The Binding of Isaac_ Rebirth - Rooms - Cathedral_2
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 767
+        width: 74
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41451271225b2ad478882c5f1d569830
+      internalID: 1109628676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - The Binding of Isaac_ Rebirth - Rooms - Cathedral_3
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 767
+        width: 74
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67fd52f485b08d14d80459e0fc71f2cc
+      internalID: -1251481400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - The Binding of Isaac_ Rebirth - Rooms - Cathedral_4
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 767
+        width: 74
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a2ccd2408d47f7448d81409121d0eb9
+      internalID: -580917326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - The Binding of Isaac_ Rebirth - Rooms - Cathedral_5
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 767
+        width: 74
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c2b780e2f3e92944879328264447510
+      internalID: -1120810258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - The Binding of Isaac_ Rebirth - Rooms - Cathedral_6
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 767
+        width: 74
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73cbff8466eb0b34ca9d217f3dc1209e
+      internalID: 140408178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - The Binding of Isaac_ Rebirth - Rooms - Cathedral_7
+      rect:
+        serializedVersion: 2
+        x: 518
+        y: 767
+        width: 74
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78aefb39166eb434db923ad17a9c5b92
+      internalID: 985065508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - The Binding of Isaac_ Rebirth - Rooms - Cathedral_8
+      rect:
+        serializedVersion: 2
+        x: 592
+        y: 767
+        width: 74
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98406574ee440354696bcc57a51743d2
+      internalID: 1165564143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - The Binding of Isaac_ Rebirth - Rooms - Cathedral_9
+      rect:
+        serializedVersion: 2
+        x: 666
+        y: 767
+        width: 74
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0164b5e828a5c404fa5ccc53a5a1bf58
+      internalID: 1007164955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - The Binding of Isaac_ Rebirth - Rooms - Cathedral_10
+      rect:
+        serializedVersion: 2
+        x: 740
+        y: 767
+        width: 74
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e9a6711be28b704d8e28af5f040e7f6
+      internalID: -935303690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - The Binding of Isaac_ Rebirth - Rooms - Cathedral_11
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 693
+        width: 74
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6b6a78f19145594e90cfa05ba02379a
+      internalID: -2073054417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - The Binding of Isaac_ Rebirth - Rooms - Cathedral_12
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 693
+        width: 74
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5cf20dba808ef9649b6c8cd6a2bef8e3
+      internalID: 1263567222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - The Binding of Isaac_ Rebirth - Rooms - Cathedral_13
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 693
+        width: 74
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9cef07cc60be0ac4c911f0660409a4ec
+      internalID: 1715026767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - The Binding of Isaac_ Rebirth - Rooms - Cathedral_14
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 693
+        width: 74
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a57534a4ab568e458e87c6d9ec3011a
+      internalID: 34703960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - The Binding of Isaac_ Rebirth - Rooms - Cathedral_15
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 693
+        width: 74
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50677c90dcfe65e4eac711a6962c8dea
+      internalID: -1253115933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - The Binding of Isaac_ Rebirth - Rooms - Cathedral_16
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 693
+        width: 74
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ad6c73ad3fcd5a4082123ce092907af
+      internalID: 1574356480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - The Binding of Isaac_ Rebirth - Rooms - Cathedral_17
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 693
+        width: 74
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86d050ffef1e9f846a2b7d7789ef788c
+      internalID: 583029792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - The Binding of Isaac_ Rebirth - Rooms - Cathedral_18
+      rect:
+        serializedVersion: 2
+        x: 518
+        y: 693
+        width: 74
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0859b193a7c7294c980aa380d0361ab
+      internalID: 1420398294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - The Binding of Isaac_ Rebirth - Rooms - Cathedral_19
+      rect:
+        serializedVersion: 2
+        x: 592
+        y: 693
+        width: 74
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b01bdd3f7acb36c48be74fc3dbe7b1d1
+      internalID: 221578445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - The Binding of Isaac_ Rebirth - Rooms - Cathedral_20
+      rect:
+        serializedVersion: 2
+        x: 666
+        y: 693
+        width: 74
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0efdb14b7843c9f45aa4bc8d12cad0a7
+      internalID: 1864995623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - The Binding of Isaac_ Rebirth - Rooms - Cathedral_21
+      rect:
+        serializedVersion: 2
+        x: 740
+        y: 693
+        width: 74
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a2111c0c591ff349b533d79907eb0a4
+      internalID: -69994732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - The Binding of Isaac_ Rebirth - Rooms - Cathedral_22
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 619
+        width: 74
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 492e8a5e09f0b524b977fa780b060480
+      internalID: 1053036067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - The Binding of Isaac_ Rebirth - Rooms - Cathedral_23
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 619
+        width: 74
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b34b3554ebef0643b458a05f7802a2e
+      internalID: -1166657169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - The Binding of Isaac_ Rebirth - Rooms - Cathedral_24
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 619
+        width: 74
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0406f79c89dc79949a3b1d0d4e920fbc
+      internalID: -1787633287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - The Binding of Isaac_ Rebirth - Rooms - Cathedral_25
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 619
+        width: 74
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62ba23fa6098d8d4096f51f270b2a0ab
+      internalID: -111300993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - The Binding of Isaac_ Rebirth - Rooms - Cathedral_26
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 619
+        width: 74
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76e9761deaf72cd45b24928525a23712
+      internalID: -441594490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - The Binding of Isaac_ Rebirth - Rooms - Cathedral_27
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 619
+        width: 74
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8ac4a198fd34e4469cbae5ed7c08f34
+      internalID: -370334862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - The Binding of Isaac_ Rebirth - Rooms - Cathedral_28
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 619
+        width: 74
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a62f6ac9f9ffaec48aa3397cbbd04f7f
+      internalID: 716195078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - The Binding of Isaac_ Rebirth - Rooms - Cathedral_29
+      rect:
+        serializedVersion: 2
+        x: 518
+        y: 619
+        width: 74
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3ccc012f7b473d4ca9fff7b0bbfe61c
+      internalID: -1352679412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - The Binding of Isaac_ Rebirth - Rooms - Cathedral_30
+      rect:
+        serializedVersion: 2
+        x: 592
+        y: 619
+        width: 74
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 484dc4ae044ae92429c1baa17824f784
+      internalID: 717870585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - The Binding of Isaac_ Rebirth - Rooms - Cathedral_31
+      rect:
+        serializedVersion: 2
+        x: 666
+        y: 619
+        width: 74
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35e713b73a525c84a894e20ab7d81714
+      internalID: -285257139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - The Binding of Isaac_ Rebirth - Rooms - Cathedral_32
+      rect:
+        serializedVersion: 2
+        x: 740
+        y: 619
+        width: 74
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d03f758b5d27f8499d5f02d3378f6a1
+      internalID: -2127994144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - The Binding of Isaac_ Rebirth - Rooms - Cathedral_33
+      rect:
+        serializedVersion: 2
+        x: 814
+        y: 619
+        width: 74
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa8d53f8d7b81c04ebd32ec9b49c8798
+      internalID: -1030805357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - The Binding of Isaac_ Rebirth - Rooms - Cathedral_34
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 545
+        width: 74
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f9880a19ad9eb24bad367bcb59376b0
+      internalID: 903195547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - The Binding of Isaac_ Rebirth - Rooms - Cathedral_35
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 545
+        width: 74
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5568c573633ffe24f86ee6be35c2215d
+      internalID: -1410037385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - The Binding of Isaac_ Rebirth - Rooms - Cathedral_36
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 545
+        width: 74
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de6d32fa11abb6549a5841c339154cb0
+      internalID: -408674098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - The Binding of Isaac_ Rebirth - Rooms - Cathedral_37
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 545
+        width: 74
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f48431c84d592d4f9396e08059dd3de
+      internalID: 804970438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - The Binding of Isaac_ Rebirth - Rooms - Cathedral_38
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 545
+        width: 74
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e80e1bf1ff976274991506786257a23e
+      internalID: -117674982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - The Binding of Isaac_ Rebirth - Rooms - Cathedral_39
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 545
+        width: 74
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 010b86abe601a274ea7bcf15cd19ef97
+      internalID: -662114124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - The Binding of Isaac_ Rebirth - Rooms - Cathedral_40
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 545
+        width: 74
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba4bed3aea5c9e248bfa3fe09bfc2cfb
+      internalID: 1356858376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - The Binding of Isaac_ Rebirth - Rooms - Cathedral_41
+      rect:
+        serializedVersion: 2
+        x: 518
+        y: 545
+        width: 74
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb16bd0a188c01b4f90f8a9661aa606f
+      internalID: 1430731394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - The Binding of Isaac_ Rebirth - Rooms - Cathedral_42
+      rect:
+        serializedVersion: 2
+        x: 592
+        y: 545
+        width: 74
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7e9899f26420b34db08ee4047452160
+      internalID: -935292864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - The Binding of Isaac_ Rebirth - Rooms - Cathedral_43
+      rect:
+        serializedVersion: 2
+        x: 666
+        y: 545
+        width: 74
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 140a2cebd1c84194b9fc6806a3445288
+      internalID: 489748021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - The Binding of Isaac_ Rebirth - Rooms - Cathedral_44
+      rect:
+        serializedVersion: 2
+        x: 740
+        y: 545
+        width: 74
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed5911640e6623c418a2a86afb8e4e5f
+      internalID: -962207716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - The Binding of Isaac_ Rebirth - Rooms - Cathedral_45
+      rect:
+        serializedVersion: 2
+        x: 814
+        y: 545
+        width: 74
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec149fac58e89664182943f3e972c9b1
+      internalID: -1516756288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - The Binding of Isaac_ Rebirth - Rooms - Cathedral_46
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 471
+        width: 74
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5c5d78deda2cda44a40df4f8336d3a9
+      internalID: 1538276782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - The Binding of Isaac_ Rebirth - Rooms - Cathedral_47
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 471
+        width: 74
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fae57f2ea66f90b45b85428a0b2ef47e
+      internalID: -145285648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - The Binding of Isaac_ Rebirth - Rooms - Cathedral_48
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 471
+        width: 74
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e817bf3e5cc2524596d76f8e2c1e5b3
+      internalID: -603301343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - The Binding of Isaac_ Rebirth - Rooms - Cathedral_49
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 471
+        width: 74
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eae924b2366534141aa0e7d1edf8e92f
+      internalID: 1980235790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - The Binding of Isaac_ Rebirth - Rooms - Cathedral_50
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 471
+        width: 74
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b713072e4611ad44c958c852403e06bb
+      internalID: 1136613283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - The Binding of Isaac_ Rebirth - Rooms - Cathedral_51
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 471
+        width: 74
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a3b717fb28f059498fa735ff75be3da
+      internalID: 1747649101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - The Binding of Isaac_ Rebirth - Rooms - Cathedral_52
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 471
+        width: 74
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8098eee62eb4c94ea9b4632039e5cac
+      internalID: 1609101826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - The Binding of Isaac_ Rebirth - Rooms - Cathedral_53
+      rect:
+        serializedVersion: 2
+        x: 518
+        y: 471
+        width: 74
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c35e3f7a36371ba41b9ca251c0badd1a
+      internalID: -964893338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - The Binding of Isaac_ Rebirth - Rooms - Cathedral_54
+      rect:
+        serializedVersion: 2
+        x: 592
+        y: 471
+        width: 74
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ecce50f24a0f9a409818869d02ab49c
+      internalID: 140767142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - The Binding of Isaac_ Rebirth - Rooms - Cathedral_55
+      rect:
+        serializedVersion: 2
+        x: 666
+        y: 471
+        width: 74
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef0d76de7a612af4388667e5c55f8691
+      internalID: -2058907990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - The Binding of Isaac_ Rebirth - Rooms - Cathedral_56
+      rect:
+        serializedVersion: 2
+        x: 740
+        y: 471
+        width: 74
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f162c2082ff4e3a4eb945ac2bede0ec0
+      internalID: -1093690020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - The Binding of Isaac_ Rebirth - Rooms - Cathedral_57
+      rect:
+        serializedVersion: 2
+        x: 814
+        y: 471
+        width: 74
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3aba41e81b86ef44e896d4600d892bd0
+      internalID: -830568096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - The Binding of Isaac_ Rebirth - Rooms - Cathedral_58
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 397
+        width: 74
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0347af97bb84f4c4ca02966d441a5953
+      internalID: -298000189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - The Binding of Isaac_ Rebirth - Rooms - Cathedral_59
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 397
+        width: 74
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52f08bd4549c62b4898de30ef5fb2af1
+      internalID: -1375511933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - The Binding of Isaac_ Rebirth - Rooms - Cathedral_60
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 397
+        width: 74
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24e1b0231a0044b48ae3e64c258f4017
+      internalID: 1113580921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - The Binding of Isaac_ Rebirth - Rooms - Cathedral_61
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 397
+        width: 74
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f764d17196292664798bbd6c95a448a5
+      internalID: -941112488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - The Binding of Isaac_ Rebirth - Rooms - Cathedral_62
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 397
+        width: 74
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4c62a5f280ab5541b565ae766546da1
+      internalID: -763181861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - The Binding of Isaac_ Rebirth - Rooms - Cathedral_63
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 397
+        width: 74
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d9464527f31e3b479b2b0b824911e54
+      internalID: 859710914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - The Binding of Isaac_ Rebirth - Rooms - Cathedral_64
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 397
+        width: 74
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03daf9d0ee166ca44983e763791edfaa
+      internalID: 156196093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - The Binding of Isaac_ Rebirth - Rooms - Cathedral_65
+      rect:
+        serializedVersion: 2
+        x: 814
+        y: 397
+        width: 74
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a29ac926b85bda47a9cac025dfb16cb
+      internalID: -109154128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - The Binding of Isaac_ Rebirth - Rooms - Cathedral_66
+      rect:
+        serializedVersion: 2
+        x: 888
+        y: 397
+        width: 74
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 727d0d4a1c09b9d42a4144185eaa5ab6
+      internalID: 4431733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - The Binding of Isaac_ Rebirth - Rooms - Cathedral_67
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 323
+        width: 74
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1fd5ccac65aa7514fb3c8b028b6095ba
+      internalID: -1447112920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - The Binding of Isaac_ Rebirth - Rooms - Cathedral_68
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 323
+        width: 74
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b67230774ea8c924a9f3357e172f3c92
+      internalID: 1953886560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - The Binding of Isaac_ Rebirth - Rooms - Cathedral_69
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 323
+        width: 74
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27de3200de201bf4590514320cca2c4f
+      internalID: 2012695766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - The Binding of Isaac_ Rebirth - Rooms - Cathedral_70
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 323
+        width: 74
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc07c237ea3c2a948b8bccee54946f80
+      internalID: 1258160514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - The Binding of Isaac_ Rebirth - Rooms - Cathedral_71
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 323
+        width: 74
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6126e03004d4dcb49969898a90672248
+      internalID: -929784486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - The Binding of Isaac_ Rebirth - Rooms - Cathedral_72
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 323
+        width: 74
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 291d9c19d566f754d91e8299788a1c35
+      internalID: -629759399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - The Binding of Isaac_ Rebirth - Rooms - Cathedral_73
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 323
+        width: 74
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41a9d19d68ebf5145aa2a762b96c687b
+      internalID: 120932648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - The Binding of Isaac_ Rebirth - Rooms - Cathedral_74
+      rect:
+        serializedVersion: 2
+        x: 518
+        y: 323
+        width: 74
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 863e36c8f185c09498feb200ad50aa18
+      internalID: 387488032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - The Binding of Isaac_ Rebirth - Rooms - Cathedral_75
+      rect:
+        serializedVersion: 2
+        x: 592
+        y: 323
+        width: 74
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3a9ba2b37a019b4782b0a0dd938fe5a
+      internalID: -1257834106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - The Binding of Isaac_ Rebirth - Rooms - Cathedral_76
+      rect:
+        serializedVersion: 2
+        x: 666
+        y: 323
+        width: 74
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0dfb0c4810c87e34fb1c305d51a0ae38
+      internalID: -540507665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - The Binding of Isaac_ Rebirth - Rooms - Cathedral_77
+      rect:
+        serializedVersion: 2
+        x: 740
+        y: 323
+        width: 74
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad4771210403d624f8e6f2d9169fbda8
+      internalID: -1137885312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - The Binding of Isaac_ Rebirth - Rooms - Cathedral_78
+      rect:
+        serializedVersion: 2
+        x: 814
+        y: 323
+        width: 74
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e0f72b18e9637745b72bad02c82f7dd
+      internalID: 156461656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - The Binding of Isaac_ Rebirth - Rooms - Cathedral_79
+      rect:
+        serializedVersion: 2
+        x: 888
+        y: 323
+        width: 74
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 605cf44fcf6382f4590785b8cdd1110f
+      internalID: 1761254223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - The Binding of Isaac_ Rebirth - Rooms - Cathedral_80
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 249
+        width: 74
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51189284e7b995a4d95e7b92d811122e
+      internalID: 725426347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - The Binding of Isaac_ Rebirth - Rooms - Cathedral_81
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 249
+        width: 74
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d07e9da0b13bfdb478a63752b63f61cf
+      internalID: -1875077054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - The Binding of Isaac_ Rebirth - Rooms - Cathedral_82
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 249
+        width: 74
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97d069a5c1deb12429883a551ab9ead2
+      internalID: 1289915434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - The Binding of Isaac_ Rebirth - Rooms - Cathedral_83
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 249
+        width: 74
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea85ae55cd53a404a95f6ee01f658db1
+      internalID: -1837698615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - The Binding of Isaac_ Rebirth - Rooms - Cathedral_84
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 249
+        width: 74
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2ff1eccd3742d042abe649d6d35aa19
+      internalID: 184079064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - The Binding of Isaac_ Rebirth - Rooms - Cathedral_85
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 249
+        width: 74
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b2c33c29348de24fae75d6a4e5a14c9
+      internalID: -1517100545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - The Binding of Isaac_ Rebirth - Rooms - Cathedral_86
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 249
+        width: 74
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5261159373113c8478fe0ee8a0f8b780
+      internalID: -1879665777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - The Binding of Isaac_ Rebirth - Rooms - Cathedral_87
+      rect:
+        serializedVersion: 2
+        x: 518
+        y: 249
+        width: 74
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: acb487c7473e93b47a0e9059fc5a4935
+      internalID: -1812544246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - The Binding of Isaac_ Rebirth - Rooms - Cathedral_88
+      rect:
+        serializedVersion: 2
+        x: 592
+        y: 249
+        width: 74
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1424513dfdf2ca2438f8edb01feb7d7e
+      internalID: 590451492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - The Binding of Isaac_ Rebirth - Rooms - Cathedral_89
+      rect:
+        serializedVersion: 2
+        x: 666
+        y: 249
+        width: 74
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f96ba4a90a87455499745ffe01727de7
+      internalID: -788955354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - The Binding of Isaac_ Rebirth - Rooms - Cathedral_90
+      rect:
+        serializedVersion: 2
+        x: 740
+        y: 249
+        width: 74
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e07e12867d547fd40b3a8fbd67594c20
+      internalID: 661888975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - The Binding of Isaac_ Rebirth - Rooms - Cathedral_91
+      rect:
+        serializedVersion: 2
+        x: 814
+        y: 249
+        width: 74
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7bd9f530e5ef28e4bb65b9a8077f01d9
+      internalID: 660270546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - The Binding of Isaac_ Rebirth - Rooms - Cathedral_92
+      rect:
+        serializedVersion: 2
+        x: 888
+        y: 249
+        width: 74
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ee1d9f734221c849b03d10bea473cd1
+      internalID: 1817224776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - The Binding of Isaac_ Rebirth - Rooms - Cathedral_93
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 175
+        width: 74
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09c59bea5fe773e43a43f52f3fa4fa50
+      internalID: 898830505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - The Binding of Isaac_ Rebirth - Rooms - Cathedral_94
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 175
+        width: 74
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12c04f053b870b94ebe94a0505b36537
+      internalID: -660678648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - The Binding of Isaac_ Rebirth - Rooms - Cathedral_95
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 175
+        width: 74
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da539748831b7924fb7a9c9e2ca47c01
+      internalID: 773721944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - The Binding of Isaac_ Rebirth - Rooms - Cathedral_96
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 175
+        width: 74
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a92d12e15e4e20841b8bfe91023e80c5
+      internalID: 538618770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - The Binding of Isaac_ Rebirth - Rooms - Cathedral_97
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 175
+        width: 74
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c3f5fbc4b21d7243ae6863a205b4abf
+      internalID: -130697441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - The Binding of Isaac_ Rebirth - Rooms - Cathedral_98
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 175
+        width: 74
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d96011bdd7b8d0428c8784089a2a0b7
+      internalID: -880557270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - The Binding of Isaac_ Rebirth - Rooms - Cathedral_99
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 175
+        width: 74
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e9948a9d296f8642a900f1c918bb565
+      internalID: -147978708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - The Binding of Isaac_ Rebirth - Rooms - Cathedral_100
+      rect:
+        serializedVersion: 2
+        x: 518
+        y: 175
+        width: 74
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65cfc4f7ee9371b44902dcc3b49b2aff
+      internalID: -777319841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - The Binding of Isaac_ Rebirth - Rooms - Cathedral_101
+      rect:
+        serializedVersion: 2
+        x: 592
+        y: 175
+        width: 74
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 351e01bee48a65a4a8246192944ab6cb
+      internalID: 412252202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - The Binding of Isaac_ Rebirth - Rooms - Cathedral_102
+      rect:
+        serializedVersion: 2
+        x: 666
+        y: 175
+        width: 74
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1a860b7d1564144f96d8ea0f1a6bcc3
+      internalID: 345485427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - The Binding of Isaac_ Rebirth - Rooms - Cathedral_103
+      rect:
+        serializedVersion: 2
+        x: 740
+        y: 175
+        width: 74
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc1529a89eb82cd4eae583ff564e6ca9
+      internalID: -1724155786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - The Binding of Isaac_ Rebirth - Rooms - Cathedral_104
+      rect:
+        serializedVersion: 2
+        x: 814
+        y: 175
+        width: 74
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 282f3d3d3d42b2048992e63f0de85601
+      internalID: -406416487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - The Binding of Isaac_ Rebirth - Rooms - Cathedral_105
+      rect:
+        serializedVersion: 2
+        x: 888
+        y: 175
+        width: 74
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b5198ac1936b834db4a5008313c985b
+      internalID: -1985868348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - The Binding of Isaac_ Rebirth - Rooms - Cathedral_106
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 101
+        width: 74
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd8fccdd876772c44ae0f0aac579ad92
+      internalID: -1483250423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - The Binding of Isaac_ Rebirth - Rooms - Cathedral_107
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 101
+        width: 74
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f69a93c573282cf438d1fe710c920852
+      internalID: -1877698149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - The Binding of Isaac_ Rebirth - Rooms - Cathedral_108
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 101
+        width: 74
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 934b92948e525d148ba03659ad0ae2b1
+      internalID: 1929956231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - The Binding of Isaac_ Rebirth - Rooms - Cathedral_109
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 101
+        width: 74
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24583ebc0b6d0bb4bbf5a5316f7617c0
+      internalID: 1088505331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - The Binding of Isaac_ Rebirth - Rooms - Cathedral_110
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 101
+        width: 74
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5355d00ed73feb342ab119c4c86e7f75
+      internalID: -198594582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - The Binding of Isaac_ Rebirth - Rooms - Cathedral_111
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 101
+        width: 74
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c9a298cce4d2bb44b867074b8a4afeb
+      internalID: 771182539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - The Binding of Isaac_ Rebirth - Rooms - Cathedral_112
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 101
+        width: 74
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b63f8789e25e5904a8122d2ccbe59c8a
+      internalID: 141004583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - The Binding of Isaac_ Rebirth - Rooms - Cathedral_113
+      rect:
+        serializedVersion: 2
+        x: 518
+        y: 101
+        width: 74
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7bd768199f48bde408a8f82cf3fa14c6
+      internalID: -196201027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - The Binding of Isaac_ Rebirth - Rooms - Cathedral_114
+      rect:
+        serializedVersion: 2
+        x: 592
+        y: 101
+        width: 74
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b90be51f7f79b9442bad72ce2cc12762
+      internalID: -805554640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - The Binding of Isaac_ Rebirth - Rooms - Cathedral_115
+      rect:
+        serializedVersion: 2
+        x: 666
+        y: 101
+        width: 74
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9715db3a35487684aa04435fba19e4eb
+      internalID: -1623585681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - The Binding of Isaac_ Rebirth - Rooms - Cathedral_116
+      rect:
+        serializedVersion: 2
+        x: 740
+        y: 101
+        width: 74
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cfd483fa361c41e4ea2f4d737d522064
+      internalID: 305220926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - The Binding of Isaac_ Rebirth - Rooms - Cathedral_117
+      rect:
+        serializedVersion: 2
+        x: 814
+        y: 101
+        width: 74
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6cfee072455496418162ddfab632ad3
+      internalID: 207737665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - The Binding of Isaac_ Rebirth - Rooms - Cathedral_118
+      rect:
+        serializedVersion: 2
+        x: 888
+        y: 101
+        width: 74
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc2fc2f2959757c4aa6a81762d07a2a4
+      internalID: -235472010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - The Binding of Isaac_ Rebirth - Rooms - Cathedral_119
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 27
+        width: 74
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5a96bfd4ffdf08489afad4f8e26e73b
+      internalID: -247444856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - The Binding of Isaac_ Rebirth - Rooms - Cathedral_120
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 27
+        width: 74
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 499774b4ef7e26d449fef4f748c7ae9f
+      internalID: 658238186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - The Binding of Isaac_ Rebirth - Rooms - Cathedral_121
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 27
+        width: 74
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf08e0a84cee5fc4c958e413a2f0ea65
+      internalID: -1334241202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - The Binding of Isaac_ Rebirth - Rooms - Cathedral_122
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 27
+        width: 74
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0afba79b196167d4faa092769bd186e8
+      internalID: 267382547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - The Binding of Isaac_ Rebirth - Rooms - Cathedral_123
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 27
+        width: 74
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: beba70aaa9580534c8d6b6afb3218efa
+      internalID: 893530082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - The Binding of Isaac_ Rebirth - Rooms - Cathedral_124
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 27
+        width: 74
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ffa907abe1ad9b84d8c4d58fa77456a8
+      internalID: -287886386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - The Binding of Isaac_ Rebirth - Rooms - Cathedral_125
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 27
+        width: 74
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9183923ec72fb2e48a3fecda4d485e37
+      internalID: 1250896061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - The Binding of Isaac_ Rebirth - Rooms - Cathedral_126
+      rect:
+        serializedVersion: 2
+        x: 518
+        y: 27
+        width: 74
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9509833fa8bf54e4b9b2edc137c1414b
+      internalID: -213407477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - The Binding of Isaac_ Rebirth - Rooms - Cathedral_127
+      rect:
+        serializedVersion: 2
+        x: 592
+        y: 27
+        width: 74
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88182162578ac394e8651e44f9030474
+      internalID: 934655892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - The Binding of Isaac_ Rebirth - Rooms - Cathedral_128
+      rect:
+        serializedVersion: 2
+        x: 666
+        y: 27
+        width: 74
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 299fbe499a866784eb791f25940b033c
+      internalID: -2085294388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - The Binding of Isaac_ Rebirth - Rooms - Cathedral_129
+      rect:
+        serializedVersion: 2
+        x: 740
+        y: 27
+        width: 74
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2489b6e1ee6f9c4ba39269dfcd281a0
+      internalID: -1580406225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - The Binding of Isaac_ Rebirth - Rooms - Cathedral_130
+      rect:
+        serializedVersion: 2
+        x: 814
+        y: 27
+        width: 74
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa82dd2034cfc5a41a7a231569c1d808
+      internalID: 658302282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - The Binding of Isaac_ Rebirth - Rooms - Cathedral_131
+      rect:
+        serializedVersion: 2
+        x: 888
+        y: 27
+        width: 74
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a914c75acd52bc841933817b87c34573
+      internalID: -2103085053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      PC _ Computer - The Binding of Isaac_ Rebirth - Rooms - Cathedral_0: -1750135262
+      PC _ Computer - The Binding of Isaac_ Rebirth - Rooms - Cathedral_1: 1045237381
+      PC _ Computer - The Binding of Isaac_ Rebirth - Rooms - Cathedral_10: -935303690
+      PC _ Computer - The Binding of Isaac_ Rebirth - Rooms - Cathedral_100: -777319841
+      PC _ Computer - The Binding of Isaac_ Rebirth - Rooms - Cathedral_101: 412252202
+      PC _ Computer - The Binding of Isaac_ Rebirth - Rooms - Cathedral_102: 345485427
+      PC _ Computer - The Binding of Isaac_ Rebirth - Rooms - Cathedral_103: -1724155786
+      PC _ Computer - The Binding of Isaac_ Rebirth - Rooms - Cathedral_104: -406416487
+      PC _ Computer - The Binding of Isaac_ Rebirth - Rooms - Cathedral_105: -1985868348
+      PC _ Computer - The Binding of Isaac_ Rebirth - Rooms - Cathedral_106: -1483250423
+      PC _ Computer - The Binding of Isaac_ Rebirth - Rooms - Cathedral_107: -1877698149
+      PC _ Computer - The Binding of Isaac_ Rebirth - Rooms - Cathedral_108: 1929956231
+      PC _ Computer - The Binding of Isaac_ Rebirth - Rooms - Cathedral_109: 1088505331
+      PC _ Computer - The Binding of Isaac_ Rebirth - Rooms - Cathedral_11: -2073054417
+      PC _ Computer - The Binding of Isaac_ Rebirth - Rooms - Cathedral_110: -198594582
+      PC _ Computer - The Binding of Isaac_ Rebirth - Rooms - Cathedral_111: 771182539
+      PC _ Computer - The Binding of Isaac_ Rebirth - Rooms - Cathedral_112: 141004583
+      PC _ Computer - The Binding of Isaac_ Rebirth - Rooms - Cathedral_113: -196201027
+      PC _ Computer - The Binding of Isaac_ Rebirth - Rooms - Cathedral_114: -805554640
+      PC _ Computer - The Binding of Isaac_ Rebirth - Rooms - Cathedral_115: -1623585681
+      PC _ Computer - The Binding of Isaac_ Rebirth - Rooms - Cathedral_116: 305220926
+      PC _ Computer - The Binding of Isaac_ Rebirth - Rooms - Cathedral_117: 207737665
+      PC _ Computer - The Binding of Isaac_ Rebirth - Rooms - Cathedral_118: -235472010
+      PC _ Computer - The Binding of Isaac_ Rebirth - Rooms - Cathedral_119: -247444856
+      PC _ Computer - The Binding of Isaac_ Rebirth - Rooms - Cathedral_12: 1263567222
+      PC _ Computer - The Binding of Isaac_ Rebirth - Rooms - Cathedral_120: 658238186
+      PC _ Computer - The Binding of Isaac_ Rebirth - Rooms - Cathedral_121: -1334241202
+      PC _ Computer - The Binding of Isaac_ Rebirth - Rooms - Cathedral_122: 267382547
+      PC _ Computer - The Binding of Isaac_ Rebirth - Rooms - Cathedral_123: 893530082
+      PC _ Computer - The Binding of Isaac_ Rebirth - Rooms - Cathedral_124: -287886386
+      PC _ Computer - The Binding of Isaac_ Rebirth - Rooms - Cathedral_125: 1250896061
+      PC _ Computer - The Binding of Isaac_ Rebirth - Rooms - Cathedral_126: -213407477
+      PC _ Computer - The Binding of Isaac_ Rebirth - Rooms - Cathedral_127: 934655892
+      PC _ Computer - The Binding of Isaac_ Rebirth - Rooms - Cathedral_128: -2085294388
+      PC _ Computer - The Binding of Isaac_ Rebirth - Rooms - Cathedral_129: -1580406225
+      PC _ Computer - The Binding of Isaac_ Rebirth - Rooms - Cathedral_13: 1715026767
+      PC _ Computer - The Binding of Isaac_ Rebirth - Rooms - Cathedral_130: 658302282
+      PC _ Computer - The Binding of Isaac_ Rebirth - Rooms - Cathedral_131: -2103085053
+      PC _ Computer - The Binding of Isaac_ Rebirth - Rooms - Cathedral_14: 34703960
+      PC _ Computer - The Binding of Isaac_ Rebirth - Rooms - Cathedral_15: -1253115933
+      PC _ Computer - The Binding of Isaac_ Rebirth - Rooms - Cathedral_16: 1574356480
+      PC _ Computer - The Binding of Isaac_ Rebirth - Rooms - Cathedral_17: 583029792
+      PC _ Computer - The Binding of Isaac_ Rebirth - Rooms - Cathedral_18: 1420398294
+      PC _ Computer - The Binding of Isaac_ Rebirth - Rooms - Cathedral_19: 221578445
+      PC _ Computer - The Binding of Isaac_ Rebirth - Rooms - Cathedral_2: 1109628676
+      PC _ Computer - The Binding of Isaac_ Rebirth - Rooms - Cathedral_20: 1864995623
+      PC _ Computer - The Binding of Isaac_ Rebirth - Rooms - Cathedral_21: -69994732
+      PC _ Computer - The Binding of Isaac_ Rebirth - Rooms - Cathedral_22: 1053036067
+      PC _ Computer - The Binding of Isaac_ Rebirth - Rooms - Cathedral_23: -1166657169
+      PC _ Computer - The Binding of Isaac_ Rebirth - Rooms - Cathedral_24: -1787633287
+      PC _ Computer - The Binding of Isaac_ Rebirth - Rooms - Cathedral_25: -111300993
+      PC _ Computer - The Binding of Isaac_ Rebirth - Rooms - Cathedral_26: -441594490
+      PC _ Computer - The Binding of Isaac_ Rebirth - Rooms - Cathedral_27: -370334862
+      PC _ Computer - The Binding of Isaac_ Rebirth - Rooms - Cathedral_28: 716195078
+      PC _ Computer - The Binding of Isaac_ Rebirth - Rooms - Cathedral_29: -1352679412
+      PC _ Computer - The Binding of Isaac_ Rebirth - Rooms - Cathedral_3: -1251481400
+      PC _ Computer - The Binding of Isaac_ Rebirth - Rooms - Cathedral_30: 717870585
+      PC _ Computer - The Binding of Isaac_ Rebirth - Rooms - Cathedral_31: -285257139
+      PC _ Computer - The Binding of Isaac_ Rebirth - Rooms - Cathedral_32: -2127994144
+      PC _ Computer - The Binding of Isaac_ Rebirth - Rooms - Cathedral_33: -1030805357
+      PC _ Computer - The Binding of Isaac_ Rebirth - Rooms - Cathedral_34: 903195547
+      PC _ Computer - The Binding of Isaac_ Rebirth - Rooms - Cathedral_35: -1410037385
+      PC _ Computer - The Binding of Isaac_ Rebirth - Rooms - Cathedral_36: -408674098
+      PC _ Computer - The Binding of Isaac_ Rebirth - Rooms - Cathedral_37: 804970438
+      PC _ Computer - The Binding of Isaac_ Rebirth - Rooms - Cathedral_38: -117674982
+      PC _ Computer - The Binding of Isaac_ Rebirth - Rooms - Cathedral_39: -662114124
+      PC _ Computer - The Binding of Isaac_ Rebirth - Rooms - Cathedral_4: -580917326
+      PC _ Computer - The Binding of Isaac_ Rebirth - Rooms - Cathedral_40: 1356858376
+      PC _ Computer - The Binding of Isaac_ Rebirth - Rooms - Cathedral_41: 1430731394
+      PC _ Computer - The Binding of Isaac_ Rebirth - Rooms - Cathedral_42: -935292864
+      PC _ Computer - The Binding of Isaac_ Rebirth - Rooms - Cathedral_43: 489748021
+      PC _ Computer - The Binding of Isaac_ Rebirth - Rooms - Cathedral_44: -962207716
+      PC _ Computer - The Binding of Isaac_ Rebirth - Rooms - Cathedral_45: -1516756288
+      PC _ Computer - The Binding of Isaac_ Rebirth - Rooms - Cathedral_46: 1538276782
+      PC _ Computer - The Binding of Isaac_ Rebirth - Rooms - Cathedral_47: -145285648
+      PC _ Computer - The Binding of Isaac_ Rebirth - Rooms - Cathedral_48: -603301343
+      PC _ Computer - The Binding of Isaac_ Rebirth - Rooms - Cathedral_49: 1980235790
+      PC _ Computer - The Binding of Isaac_ Rebirth - Rooms - Cathedral_5: -1120810258
+      PC _ Computer - The Binding of Isaac_ Rebirth - Rooms - Cathedral_50: 1136613283
+      PC _ Computer - The Binding of Isaac_ Rebirth - Rooms - Cathedral_51: 1747649101
+      PC _ Computer - The Binding of Isaac_ Rebirth - Rooms - Cathedral_52: 1609101826
+      PC _ Computer - The Binding of Isaac_ Rebirth - Rooms - Cathedral_53: -964893338
+      PC _ Computer - The Binding of Isaac_ Rebirth - Rooms - Cathedral_54: 140767142
+      PC _ Computer - The Binding of Isaac_ Rebirth - Rooms - Cathedral_55: -2058907990
+      PC _ Computer - The Binding of Isaac_ Rebirth - Rooms - Cathedral_56: -1093690020
+      PC _ Computer - The Binding of Isaac_ Rebirth - Rooms - Cathedral_57: -830568096
+      PC _ Computer - The Binding of Isaac_ Rebirth - Rooms - Cathedral_58: -298000189
+      PC _ Computer - The Binding of Isaac_ Rebirth - Rooms - Cathedral_59: -1375511933
+      PC _ Computer - The Binding of Isaac_ Rebirth - Rooms - Cathedral_6: 140408178
+      PC _ Computer - The Binding of Isaac_ Rebirth - Rooms - Cathedral_60: 1113580921
+      PC _ Computer - The Binding of Isaac_ Rebirth - Rooms - Cathedral_61: -941112488
+      PC _ Computer - The Binding of Isaac_ Rebirth - Rooms - Cathedral_62: -763181861
+      PC _ Computer - The Binding of Isaac_ Rebirth - Rooms - Cathedral_63: 859710914
+      PC _ Computer - The Binding of Isaac_ Rebirth - Rooms - Cathedral_64: 156196093
+      PC _ Computer - The Binding of Isaac_ Rebirth - Rooms - Cathedral_65: -109154128
+      PC _ Computer - The Binding of Isaac_ Rebirth - Rooms - Cathedral_66: 4431733
+      PC _ Computer - The Binding of Isaac_ Rebirth - Rooms - Cathedral_67: -1447112920
+      PC _ Computer - The Binding of Isaac_ Rebirth - Rooms - Cathedral_68: 1953886560
+      PC _ Computer - The Binding of Isaac_ Rebirth - Rooms - Cathedral_69: 2012695766
+      PC _ Computer - The Binding of Isaac_ Rebirth - Rooms - Cathedral_7: 985065508
+      PC _ Computer - The Binding of Isaac_ Rebirth - Rooms - Cathedral_70: 1258160514
+      PC _ Computer - The Binding of Isaac_ Rebirth - Rooms - Cathedral_71: -929784486
+      PC _ Computer - The Binding of Isaac_ Rebirth - Rooms - Cathedral_72: -629759399
+      PC _ Computer - The Binding of Isaac_ Rebirth - Rooms - Cathedral_73: 120932648
+      PC _ Computer - The Binding of Isaac_ Rebirth - Rooms - Cathedral_74: 387488032
+      PC _ Computer - The Binding of Isaac_ Rebirth - Rooms - Cathedral_75: -1257834106
+      PC _ Computer - The Binding of Isaac_ Rebirth - Rooms - Cathedral_76: -540507665
+      PC _ Computer - The Binding of Isaac_ Rebirth - Rooms - Cathedral_77: -1137885312
+      PC _ Computer - The Binding of Isaac_ Rebirth - Rooms - Cathedral_78: 156461656
+      PC _ Computer - The Binding of Isaac_ Rebirth - Rooms - Cathedral_79: 1761254223
+      PC _ Computer - The Binding of Isaac_ Rebirth - Rooms - Cathedral_8: 1165564143
+      PC _ Computer - The Binding of Isaac_ Rebirth - Rooms - Cathedral_80: 725426347
+      PC _ Computer - The Binding of Isaac_ Rebirth - Rooms - Cathedral_81: -1875077054
+      PC _ Computer - The Binding of Isaac_ Rebirth - Rooms - Cathedral_82: 1289915434
+      PC _ Computer - The Binding of Isaac_ Rebirth - Rooms - Cathedral_83: -1837698615
+      PC _ Computer - The Binding of Isaac_ Rebirth - Rooms - Cathedral_84: 184079064
+      PC _ Computer - The Binding of Isaac_ Rebirth - Rooms - Cathedral_85: -1517100545
+      PC _ Computer - The Binding of Isaac_ Rebirth - Rooms - Cathedral_86: -1879665777
+      PC _ Computer - The Binding of Isaac_ Rebirth - Rooms - Cathedral_87: -1812544246
+      PC _ Computer - The Binding of Isaac_ Rebirth - Rooms - Cathedral_88: 590451492
+      PC _ Computer - The Binding of Isaac_ Rebirth - Rooms - Cathedral_89: -788955354
+      PC _ Computer - The Binding of Isaac_ Rebirth - Rooms - Cathedral_9: 1007164955
+      PC _ Computer - The Binding of Isaac_ Rebirth - Rooms - Cathedral_90: 661888975
+      PC _ Computer - The Binding of Isaac_ Rebirth - Rooms - Cathedral_91: 660270546
+      PC _ Computer - The Binding of Isaac_ Rebirth - Rooms - Cathedral_92: 1817224776
+      PC _ Computer - The Binding of Isaac_ Rebirth - Rooms - Cathedral_93: 898830505
+      PC _ Computer - The Binding of Isaac_ Rebirth - Rooms - Cathedral_94: -660678648
+      PC _ Computer - The Binding of Isaac_ Rebirth - Rooms - Cathedral_95: 773721944
+      PC _ Computer - The Binding of Isaac_ Rebirth - Rooms - Cathedral_96: 538618770
+      PC _ Computer - The Binding of Isaac_ Rebirth - Rooms - Cathedral_97: -130697441
+      PC _ Computer - The Binding of Isaac_ Rebirth - Rooms - Cathedral_98: -880557270
+      PC _ Computer - The Binding of Isaac_ Rebirth - Rooms - Cathedral_99: -147978708
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

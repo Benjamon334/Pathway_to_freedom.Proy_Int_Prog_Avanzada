@@ -4,14 +4,16 @@ using UnityEngine;
 
 public class playerMovement : MonoBehaviour
 {
-    [SerializeField ]public float moveSpeed = 5f;
+    [SerializeField ]public float moveSpeed = 3f;
     private Rigidbody2D rb;
     private Vector2 movement;
+    private Animator animator;
 
     // Start is called before the first frame update
     void Start()
     {
         rb = GetComponent<Rigidbody2D>();
+        animator = GetComponent<Animator>();
     }
 
     // Update is called once per frame
@@ -39,9 +41,20 @@ public class playerMovement : MonoBehaviour
     private void Move()
     {
         rb.velocity = movement.normalized * moveSpeed;
-        CheckForFlipping();
+        // CheckForFlipping(); 
+
+        if (movement.x != 0 || movement.y != 0)
+        {
+            SetAnimatorMovement(movement);
+        }
+        else
+        {
+            animator.SetLayerWeight(1, 0);
+        }
+
     }
 
+    /*
     private void CheckForFlipping()
     {
         bool movingLeft = movement.x < 0;
@@ -55,6 +68,14 @@ public class playerMovement : MonoBehaviour
         {
             transform.localScale = new Vector3(1f, transform.localScale.y);
         }
+    }
+    */
+    
+    private void SetAnimatorMovement(Vector2 movement)
+    {
+        animator.SetLayerWeight(1, 1);
+        animator.SetFloat("xDir", movement.x);
+        animator.SetFloat("yDir", movement.y);
     }
 
 }
